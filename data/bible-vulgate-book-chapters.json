@@ -1,0 +1,368 @@
+[
+    {
+      "Book": "Genesis",
+      "LatinBook": "Genesis",
+      "Chapters": 50
+    },
+    {
+      "Book": "Exodus",
+      "LatinBook": "Exodus",
+      "Chapters": 40
+    },
+    {
+      "Book": "Leviticus",
+      "LatinBook": "Leviticus",
+      "Chapters": 27
+    },
+    {
+      "Book": "Numbers",
+      "LatinBook": "Numeri",
+      "Chapters": 36
+    },
+    {
+      "Book": "Deuteronomy",
+      "LatinBook": "Deuteronomium",
+      "Chapters": 34
+    },
+    {
+      "Book": "Joshua",
+      "LatinBook": "Iosue",
+      "Chapters": 24
+    },
+    {
+      "Book": "Judges",
+      "LatinBook": "Iudicum",
+      "Chapters": 21
+    },
+    {
+      "Book": "Ruth",
+      "LatinBook": "Ruth",
+      "Chapters": 4
+    },
+    {
+      "Book": "1Samuel",
+      "LatinBook": "1Samuelis",
+      "Chapters": 31
+    },
+    {
+      "Book": "2Samuel",
+      "LatinBook": "2Samuelis",
+      "Chapters": 24
+    },
+    {
+      "Book": "1Kings",
+      "LatinBook": "1Regum",
+      "Chapters": 22
+    },
+    {
+      "Book": "2Kings",
+      "LatinBook": "2Regum",
+      "Chapters": 25
+    },
+    {
+      "Book": "1Chronicles",
+      "LatinBook": "1Paralipomenon",
+      "Chapters": 29
+    },
+    {
+      "Book": "2Chronicles",
+      "LatinBook": "2Paralipomenon",
+      "Chapters": 36
+    },
+    {
+      "Book": "Ezra",
+      "LatinBook": "Esdrae",
+      "Chapters": 10
+    },
+    {
+      "Book": "Nehemiah",
+      "LatinBook": "Nehemiae",
+      "Chapters": 13
+    },
+    {
+      "Book": "Tobit",
+      "LatinBook": "Tobiae",
+      "Chapters": 14
+    },
+    {
+      "Book": "Judith",
+      "LatinBook": "Iudith",
+      "Chapters": 16
+    },
+    {
+      "Book": "Esther",
+      "LatinBook": "Esther",
+      "Chapters": 10
+    },
+    {
+      "Book": "1Maccabees",
+      "LatinBook": "1Maccabaeorum",
+      "Chapters": 16
+    },
+    {
+      "Book": "2Maccabees",
+      "LatinBook": "2Maccabaeorum",
+      "Chapters": 15
+    },
+    {
+      "Book": "Job",
+      "LatinBook": "Iob",
+      "Chapters": 42
+    },
+    {
+      "Book": "Psalms",
+      "LatinBook": "Psalmi",
+      "Chapters": 150
+    },
+    {
+      "Book": "Proverbs",
+      "LatinBook": "Proverbia",
+      "Chapters": 31
+    },
+    {
+      "Book": "Ecclesiastes",
+      "LatinBook": "Ecclesiastes",
+      "Chapters": 12
+    },
+    {
+      "Book": "SongofSongs",
+      "LatinBook": "Canticum Canticorum",
+      "Chapters": 8
+    },
+    {
+      "Book": "Wisdom",
+      "LatinBook": "Sapientia",
+      "Chapters": 19
+    },
+    {
+      "Book": "Sirach",
+      "LatinBook": "Eclesiasticus",
+      "Chapters": 51
+    },
+    {
+      "Book": "Isaiah",
+      "LatinBook": "Isaias",
+      "Chapters": 66
+    },
+    {
+      "Book": "Jeremiah",
+      "LatinBook": "Ieremias",
+      "Chapters": 52
+    },
+    {
+      "Book": "Lamentations",
+      "LatinBook": "Lamentationes",
+      "Chapters": 5
+    },
+    {
+      "Book": "Baruch",
+      "LatinBook": "Baruch",
+      "Chapters": 6
+    },
+    {
+      "Book": "Ezekiel",
+      "LatinBook": "Ezechiel",
+      "Chapters": 48
+    },
+    {
+      "Book": "Daniel",
+      "LatinBook": "Daniel",
+      "Chapters": 14
+    },
+    {
+      "Book": "Hosea",
+      "LatinBook": "Osee",
+      "Chapters": 14
+    },
+    {
+      "Book": "Joel",
+      "LatinBook": "Ioel",
+      "Chapters": 3,
+      "Comment": "In Douay-Rheims, Joel has 3 chapters instead of 4."
+    },
+    {
+      "Book": "Amos",
+      "LatinBook": "Amos",
+      "Chapters": 9
+    },
+    {
+      "Book": "Obadiah",
+      "LatinBook": "Abdias",
+      "Chapters": 1
+    },
+    {
+      "Book": "Jonah",
+      "LatinBook": "Ionas",
+      "Chapters": 4
+    },
+    {
+      "Book": "Micah",  
+      "LatinBook": "Michaeas",
+      "Chapters": 7
+    },
+    {
+      "Book": "Nahum",
+      "LatinBook": "Nahum",
+      "Chapters": 3
+    },
+    {
+      "Book": "Habakkuk",
+      "LatinBook": "Habacuc",
+      "Chapters": 3
+    },
+    {
+      "Book": "Zephaniah",  
+      "LatinBook": "Sophonias",
+      "Chapters": 3
+    },
+    {
+      "Book": "Haggai", 
+      "LatinBook": "Aggaeus",
+      "Chapters": 2
+    },
+    {
+      "Book": "Zechariah",  
+      "LatinBook": "Zacharias",
+      "Chapters": 14
+    },
+    {
+      "Book": "Malachi",  
+      "LatinBook": "Malachias",
+      "Chapters": 3
+    },
+    {
+      "Book": "Matthew",
+      "LatinBook": "Matthaeus",
+      "Chapters": 28
+    },
+    {
+      "Book": "Mark",
+      "LatinBook": "Marcus",
+      "Chapters": 16
+    },
+    {
+      "Book": "Luke",
+      "LatinBook": "Lucas",
+      "Chapters": 24
+    },
+    {
+      "Book": "John",
+      "LatinBook": "Ioannes",
+      "Chapters": 21
+    },
+    {
+      "Book": "Acts", 
+      "LatinBook": "Actus Apostolorum",
+      "Chapters": 28
+    },
+    {
+      "Book": "Romans",
+      "LatinBook": "Romanos",
+      "Chapters": 16
+    },
+    {
+      "Book": "1Corinthians",
+      "LatinBook": "1Corinthios",
+      "Chapters": 16
+    },
+    {
+      "Book": "2Corinthians",
+      "LatinBook": "2Corinthios",
+      "Chapters": 13
+    },
+    {
+      "Book": "Galatians",
+      "LatinBook": "Galatas",
+      "Chapters": 6
+    },
+    {
+      "Book": "Ephesians",
+      "LatinBook": "Ephesios",
+      "Chapters": 6
+    },
+    {
+      "Book": "Philippians",  
+      "LatinBook": "Philippenses",
+      "Chapters": 4
+    },
+    {
+      "Book": "Colossians",
+      "LatinBook": "Colossenses",
+      "Chapters": 4
+    },
+    {
+      "Book": "1Thessalonians",
+      "LatinBook": "1Thessalonicenses",
+      "Chapters": 5
+    },
+    {
+      "Book": "2Thessalonians",
+      "LatinBook": "2Thessalonicenses",
+      "Chapters": 3
+    },
+    {
+      "Book": "1Timothy",
+      "LatinBook": "1Timotheum",
+      "Chapters": 6
+    },
+    {
+      "Book": "2Timothy",
+      "LatinBook": "2Timotheum",
+      "Chapters": 4
+    },
+    {
+      "Book": "Titus",  
+      "LatinBook": "Titum",
+      "Chapters": 3
+    },
+    {
+      "Book": "Philemon",
+      "LatinBook": "Philemonem",
+      "Chapters": 1
+    },
+    {
+      "Book": "Hebrews",
+      "LatinBook": "Hebraeos",
+      "Chapters": 13
+    },
+    {
+      "Book": "James",
+      "LatinBook": "Iacobi",
+      "Chapters": 5
+    },
+    {
+      "Book": "1Peter",
+      "LatinBook": "1Petri",
+      "Chapters": 5
+    },
+    {
+      "Book": "2Peter",
+      "LatinBook": "2Petri",
+      "Chapters": 3
+    },
+    {
+      "Book": "1John",
+      "LatinBook": "1Ioannis",
+      "Chapters": 5
+    },
+    {
+      "Book": "2John",  
+      "LatinBook": "2Ioannis",
+      "Chapters": 1
+    },
+    {
+      "Book": "3John",
+      "LatinBook": "3Ioannis",
+      "Chapters": 1
+    },
+    {
+      "Book": "Jude",
+      "LatinBook": "Iudae",
+      "Chapters": 1
+    },
+    {
+      "Book": "Revelation",
+      "LatinBook": "Apocalypsis",
+      "Chapters": 22
+    }
+  ]
