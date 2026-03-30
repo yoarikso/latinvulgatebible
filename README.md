@@ -2,6 +2,8 @@
 
 This vulgate.py project, written in Python, converts the Latin Vulgate - Biblia Sacra Vulgata (VULGATE) Catholic Bible into JSON format.
 
+Totus Tuus, Ad Majorem Dei Gloriam! +
+
 ## Overview
 
 The Python script `vulgate.py` downloads the HTML files from the BibleGateway website and converts them into JSON format. The JSON files are saved in the vulgate-json directory with both Old Testament (OT) and New Testament (NT) books.
